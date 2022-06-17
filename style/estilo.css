@@ -110,6 +110,16 @@ a {
     margin-right: 4em;
 }
 
+.gif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.gif:hover{
+    
+}
 
 /* end of historia */
 
